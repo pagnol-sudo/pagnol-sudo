@@ -51,16 +51,15 @@ Déploiement et sécurisation d'un AD Windows Server 2022 sur infrastructure vir
 
 ## 💼 Expériences
 
-💼 Expériences professionnelles
-🏦 Stagiaire Cybersécurité — CAMPOST (Fév–Avr 2025)
-Post & Banque · Service DSI Cybersécurité
+**🏦 Stagiaire Cybersécurité — CAMPOST (Fév–Avr 2025)
+Post & Banque · Service DSI Cybersécurité**
 
 Déploiement d'un IDS Snort pour surveiller le trafic réseau de l'entreprise en production
 Maintenance réseau et parc matériel informatique
 Support technique (Helpdesk)
 
-🏆 Stagiaire Technique — AEC (Mai–Août 2023)
-Association Experts en Cybersécurité · Olympiades CTF
+**🏆 Stagiaire Technique — AEC (Mai–Août 2023)
+Association Experts en Cybersécurité · Olympiades CTF**
 
 Configuration des machines attaquantes/victimes pour les épreuves d'examen
 Mise en place de vulnérabilités contrôlées pour les tests d'intrusion des candidats
