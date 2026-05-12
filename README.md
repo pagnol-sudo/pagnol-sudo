@@ -1,5 +1,5 @@
 <div align="center">
-![banierre](banierre.png)
+![banierre](1772999875877.g)
 # Pagnol MOUAFFO
 ### 🛡️ Étudiant ingénieur Cybersécurité — Red & Blue Team
 
