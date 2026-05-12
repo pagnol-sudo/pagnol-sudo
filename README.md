@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pagnol-sudo/pagnol-sudo/main/1772999875877.jpg" alt="Pagnol MOUAFFO" width="120" style="border-radius: 50%"/>
+<img src="https://raw.githubusercontent.com/pagnol-sudo/pagnol-sudo/main/1772999875877.jpg" alt="Pagnol MOUAFFO" width="220" style="border-radius: 50%"/>
 <div align="center">
 # Pagnol MOUAFFO
 ### 🛡️ Étudiant ingénieur Cybersécurité — Red & Blue Team
