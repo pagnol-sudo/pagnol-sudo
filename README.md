@@ -17,7 +17,7 @@
 
 Étudiant en ingénierie cybersécurité, je construis des environnements de lab concrets pour pratiquer aussi bien l'attaque que la défense. Mon approche : comprendre comment on attaque pour mieux défendre — et inversement.
 
-Actuellement à la recherche d'un **stage de 6 mois en SOC / Pentest** à partir de 2026.
+Actuellement à la recherche d'un **stage de 6 mois ou une alternance en SOC / Pentest** à partir de 2026.
 
 ---
 
@@ -66,7 +66,7 @@ Déploiement et sécurisation d'un AD Windows Server 2022 sur infrastructure vir
 
 - 🔍 Approfondir la détection d'intrusion et l'analyse forensique
 - 🧪 Progresser sur Root-Me & TryHackMe (challenges offensifs)
-- 📄 Décrocher un stage SOC/Pentest 6 mois en 2026
+- 📄 Décrocher un stage/alternance SOC/Pentest 6 mois en 2026
 
 ---
 
