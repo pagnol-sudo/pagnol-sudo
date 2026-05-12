@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut, moi c’est Pagnol
 
-<!--
-**pagnol-sudo/pagnol-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en cybersécurité passionné par :
+- SOC
+- Active Directory
+- SIEM
+- Détection réseau
+- Automatisation Python
 
-Here are some ideas to get you started:
+## Projets principaux
+- Wazuh SOC Lab
+- Active Directory Security Lab
+- Snort UDP Detection Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Python • Wazuh • Snort • Wireshark • Windows Server • Linux
