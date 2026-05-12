@@ -5,9 +5,6 @@
 
 *CESI École d'Ingénieurs · Bac+3 Réseaux, Systèmes & Cybersécurité*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pagnolkouam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pagnolkouam)
-[![GitHub](https://img.shields.io/badge/GitHub-pagnol--sudo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pagnol-sudo)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-pagnol-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 </div>
 
@@ -71,7 +68,4 @@ Déploiement et sécurisation d'un AD Windows Server 2022 sur infrastructure vir
 ---
 
 <div align="center">
-
-*Major de promotion — Classe préparatoire RIIS (2023–2025)*
-
 </div>
